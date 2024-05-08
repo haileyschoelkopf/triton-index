@@ -1,3 +1,4 @@
+# Moved to https://github.com/cuda-mode/triton-index , see there for future development!
 # triton-index
 
 Goals of this repo:
